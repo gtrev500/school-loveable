@@ -77,7 +77,7 @@ export function ChatMessage({
             ? "bg-calm-500 text-white rounded-tr-none" 
             : "bg-card shadow-sm rounded-tl-none"
         )}>
-          <p className="text-sm">{message}</p>
+          <p className="text-sm whitespace-pre-line">{message}</p>
           
           {shouldShowNote && (
             <div className="mt-3 border-t border-therapy-200 pt-2 text-xs bg-therapy-50/50 -mx-3 -mb-3 px-3 pb-2 rounded-b-lg">

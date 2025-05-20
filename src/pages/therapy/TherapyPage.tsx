@@ -62,6 +62,18 @@ const initialAiMessages: Message[] = [
     message: "Breaking the loop starts with one small change: set a firm \"books-closed\" time at least an hour before bed. Jot tomorrow's priorities, then shift to a wind-down—try the 4-7-8 breathing or the mindfulness audio in your resources. Solid sleep will lock in what you've studied better than another late-night cram. Think you could give that a shot tonight?",
     sender: "ai",
     timestamp: "9:08 AM"
+  },
+  {
+    id: "6",
+    message: "I want to try but honestly I'm freaking out. I still have two chapters to cover and the exam is in three days. If I don't ace this, my scholarship could be at risk. Every time I think about it my heart starts racing and I feel like I can't breathe. I don't know how to calm down enough to sleep.",
+    sender: "user",
+    timestamp: "9:10 AM"
+  },
+  {
+    id: "7",
+    message: "I hear how overwhelming this feels right now, Jamie. When our scholarships and future feel like they're hanging in the balance, that fear is absolutely real. Your body's reaction—the racing heart, the trouble breathing—that's your system trying to protect you, even though it doesn't feel helpful right now.\n\nLet's take a small step back together. The pressure to perform perfectly is immense, but your worth isn't defined by a single exam score. I know that might be hard to believe in this moment.\n\nFor tonight, instead of trying to tackle everything, what if we aim for just 15 minutes of focused breathing before bed? Not to fall asleep instantly, but just to acknowledge this difficult moment. The mindfulness audio in your resources isn't about erasing your stress—it's about sitting with it more gently.\n\nAnd tomorrow, we can work on breaking those two chapters into smaller pieces. The path through stress isn't always about eliminating it completely—sometimes it's about finding tiny moments of calm within the storm. Would a 15-minute break feel possible tonight?",
+    sender: "ai",
+    timestamp: "9:12 AM"
   }
 ];
 
