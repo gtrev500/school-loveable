@@ -1,73 +1,57 @@
-# Welcome to your Lovable project
+# MindfulEd - Mental Health Platform for Students
 
-## Project info
+**IMPORTANT NOTE: This is a proof of concept (PoC) project for demonstration purposes only.**
+
+A React-based web application providing mental health resources and support for students. This project was created using [loveable.dev](https://loveable.dev) and deployed to GitHub Pages.
+
+## Features
+
+- Community forum for peer support
+- Therapy session scheduling
+- Progress tracking tools
+- Resource directory of mental health services
+- Support contact information
+
+## Technologies Used
+
+- React 18
+- TypeScript
+- Vite
+- React Router
+- shadcn/ui components
+- Tailwind CSS
+- React Query
+
+## Development
+
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Deploy to GitHub Pages
+npm run deploy
+```
+
+## Deployment
+
+This project is configured for GitHub Pages deployment. To deploy:
+
+1. The `homepage` field in `package.json` is set to use the gtrev500 GitHub account
+2. Run `npm run deploy` to build and deploy to GitHub Pages
+3. Alternatively, push to the main branch to trigger the GitHub Actions workflow
+
+## Original Project
 
 **URL**: https://lovable.dev/projects/5a74ff8a-a564-455f-b4a1-cc26192ee35b
 
-## How can I edit this code?
+This project was originally created using Lovable, a no-code website builder platform.
 
-There are several ways of editing your application.
+## License
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/5a74ff8a-a564-455f-b4a1-cc26192ee35b) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/5a74ff8a-a564-455f-b4a1-cc26192ee35b) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+MIT

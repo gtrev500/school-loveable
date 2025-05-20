@@ -9,6 +9,7 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
+  base: '/school-loveable/',
   plugins: [
     react(),
     mode === 'development' &&
