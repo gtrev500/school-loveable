@@ -24,7 +24,7 @@ export function PageLayout({ children, title }: PageLayoutProps) {
     <div className="flex h-screen">
       <aside className="w-56 bg-background border-r flex flex-col">
         <div className="px-6 py-4 text-xl font-bold text-violet-700 tracking-tight">
-          MindfulEd
+          Campus Calm
         </div>
         <nav className="flex flex-col gap-2 px-2">
           {navLinks.map((link) => (
@@ -42,7 +42,7 @@ export function PageLayout({ children, title }: PageLayoutProps) {
           ))}
         </nav>
         <div className="mt-auto mb-4 px-4 text-[10px] text-muted-foreground">
-          &copy; {new Date().getFullYear()} MindfulEd
+          &copy; {new Date().getFullYear()} Campus Calm
         </div>
       </aside>
       <div className="flex flex-col flex-1 overflow-hidden">

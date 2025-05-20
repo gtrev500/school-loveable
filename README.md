@@ -1,4 +1,4 @@
-# MindfulEd - Mental Health Platform for Students
+# Campus Calm - Mental Health Platform for Students
 
 **IMPORTANT NOTE: This is a proof of concept (PoC) project for demonstration purposes only.**
 

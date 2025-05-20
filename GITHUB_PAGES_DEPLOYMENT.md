@@ -1,6 +1,6 @@
 # Deploying to GitHub Pages
 
-This guide will help you deploy the MindfulEd application to GitHub Pages.
+This guide will help you deploy the Campus Calm application to GitHub Pages.
 
 ## Prerequisites
 
