@@ -2,7 +2,7 @@
 
 **IMPORTANT NOTE: This is a proof of concept (PoC) project for demonstration purposes only.**
 
-A React-based web application providing mental health resources and support for students. This project was created using [loveable.dev](https://loveable.dev) and deployed to GitHub Pages.
+A React-based web application providing mental health resources and support for students. This project was created using [loveable.dev](https://loveable.dev) and deployed to GitHub Pages. Created for demo protoype of the business my team created in Computer Science Information Technology: Business. 
 
 ## Features
 
